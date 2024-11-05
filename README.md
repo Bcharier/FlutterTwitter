@@ -1,16 +1,18 @@
-# tp_flutter
+# TP Flutter Fil Rouge
 
-A new Flutter project.
+Ce projet est un TP fil rouge réalisé dans le cadre scolaire pour apprendre et maîtriser le développement d'applications mobiles avec Flutter.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+L'objectif de ce projet est de développer une application mobile complète en utilisant Flutter. 
+Ce TP fil rouge permet de mettre en pratique les concepts appris en cours et de se familiariser avec les différentes fonctionnalités de Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## Prérequis
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK
+- Dart SDK
+- Un éditeur de code (recommandé : Android Studio ou Visual Studio Code)
+- Un émulateur ou un appareil physique pour tester l'application
+
